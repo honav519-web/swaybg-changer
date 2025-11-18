@@ -5,7 +5,7 @@ swaybg-changer is application allows you to change your desktop background
 1-========-install scripy
 
 
-sudo git clone https://github.com/honav519-web/swaybg-changer.git
+sudo git clone https://github.com/linuxtopG/swaybg-changer.git
 
 
 cd swaybg-change
